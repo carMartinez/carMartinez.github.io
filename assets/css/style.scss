@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.two_col_wrap {
+}
+
+.two_col_wrap div {
+  width: 49.5%;
+}
+
+.left_code {
+  float: left
+}
+
+.right_code {
+  float: right
+}
