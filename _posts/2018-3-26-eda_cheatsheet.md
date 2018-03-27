@@ -53,7 +53,7 @@ tasks when you first get your hands on a new (semi-clean) dataset.
 
 R and Python both have their pros and cons in the data science world.
 Sometimes I find myself using one language exclusively for
-an extended period of time, and switching back to the other often entails some
+an extended period of time, and then switching back to the other often entails some
 re-learning of basic usage. This tutorial gives side-by-side comparisons of
 R and Python code to jump-start the relearning process or act as a quick
 reference guide for those unfamiliar with one language.
@@ -66,7 +66,7 @@ full R and Python code/output can be viewed in the
 and
 [Jupyter notebook](https://github.com/carMartinez/eda_python_vs_r/blob/master/python_explore.ipynb),
 respectively, which are available on the
-[GitHub repo](https://github.com/carMartinez/eda_python_vs_r)
+[GitHub repo](https://github.com/carMartinez/eda_python_vs_r).
 
 ## The Dataset: TCGA
 
