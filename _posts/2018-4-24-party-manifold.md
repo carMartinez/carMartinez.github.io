@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Toeing the Party Manfiold"
+title: "Toeing the Party Manifold"
 permalink: /toeing-party-manifold/
 ---
 
