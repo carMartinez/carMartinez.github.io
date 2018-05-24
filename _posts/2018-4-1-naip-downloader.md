@@ -16,7 +16,7 @@ Essentially, the US is broken into a grid of cells called quadrangles, and the i
 4. Download the RGB image locally.
 5. Extract a subset of the RGB image centered at the feature and draw a small box around it for visual verification.
 
-All the code and explanations below are also on [GitHub](https://github.com/carMartinez/naip_quadrangle_downloader)
+All the code and explanations below are also on [GitHub](https://github.com/carMartinez/naip_quadrangle_downloader).
 
 # Prerequisites
 

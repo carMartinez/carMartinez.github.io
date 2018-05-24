@@ -49,3 +49,27 @@
   margin: 0 auto;
   max-width: 100%;
 }
+
+.table-center {
+  border: 0px solid black;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.table-center td {
+  border: 0px solid black;
+  margin-bottom: 0;
+}
+
+.table-center tr {
+  border: 0px solid black;
+  margin-bottom: 0;
+}
+
+.image-caption {
+  text-align: center;
+  font-size: 1rem;
+  color: light-grey;
+}
