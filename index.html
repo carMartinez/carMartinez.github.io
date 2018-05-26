@@ -4,15 +4,20 @@ title: Carlos Martinez
 ---
 <div>
 	<p>
-		Please check back soon as I update the site with my current projects. In the
-		meantime, my <a href="/about/">About</a> page has some details on my
-		experience.
+		Some of my projects and useful scripts are listed below. Most of them have
+		accompanying source code 
+		 <a href="https://github.com/carMartinez">on GitHub</a>.
 	</p>
-	<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-</div><!-- /.blurb -->
+
+	<p>
+		If you're looking to get in touch or want some more insight on my experience,
+		see my <a href="/about/">About</a> page for details.
+	</p>
+<div id="project-wrapper">
+{% for post in site.posts %}
+	<div class="project-box">
+		<h5><a href="{{ post.url }}">{{ post.title }}</a></h5>{{ post.description }}
+	</div>
+{% endfor %}
+</div>
+</div>

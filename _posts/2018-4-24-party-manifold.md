@@ -2,6 +2,8 @@
 layout: post
 title: "Toeing the Party Manifold"
 permalink: /toeing-party-manifold/
+description: "Interactive visualization of various dimensionality reduction algorithms
+applied to US Congressional voting data"
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

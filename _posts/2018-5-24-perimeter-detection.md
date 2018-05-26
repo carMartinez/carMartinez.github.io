@@ -2,9 +2,11 @@
 layout: post
 title: "City Perimeter Detection"
 permalink: /perimeter-detection/
+description: "Automatically detect city perimeters from aerial images using deep
+learning and image processing"
 ---
 
-Automatically extract the perimeter of a city given an aerial or satellite image
+Automatically detect the perimeter of a city given an aerial or satellite image
 of the city. A convolutional neural network is used to identify the road network
 in the image, and then image processing techniques expand the road network into
 a contour of the city.
@@ -59,7 +61,7 @@ and perimeter extraction procedure are detailed in the [Methods section](#method
 
 # Results
 
-[![Results](/assets/img/perimeter/results.png)](/assets/img/perimeter/results.png))
+[![Results](/assets/img/perimeter/results.png)](/assets/img/perimeter/results.png)
 
 {:.image-caption}
 Figure 2. (Click to see full size) Results of perimeter detection process applied

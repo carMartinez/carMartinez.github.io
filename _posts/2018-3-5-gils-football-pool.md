@@ -2,6 +2,7 @@
 layout: post
 title: "Gil's Football Pool"
 permalink: /gils-football-pool/
+description: "A Django-powered web app to facilitate a football pools/squares game"
 ---
 
 A website for streamlining my Dad's yearly Super Bowl pool/squares game. Built

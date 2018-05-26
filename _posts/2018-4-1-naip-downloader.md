@@ -2,11 +2,13 @@
 layout: post
 title: "NAIP Quadrangle Downloader"
 permalink: /naip-quadrangle-downloader/
+description: "Handy script to automate downloading of NAIP aerial images from AWS based only
+on simple names like 'Statue of Liberty, NY'"
 ---
 
 # Introduction
 
-The National Agriculture Imagery Program (NAIP) provides high-resolution satellite imagery of the United States to the public via an [Amazon Web Services (AWS) S3 bucket](https://aws.amazon.com/public-datasets/naip/).
+The National Agriculture Imagery Program (NAIP) provides high-resolution aerial imagery of the United States to the public via an [Amazon Web Services (AWS) S3 bucket](https://aws.amazon.com/public-datasets/naip/).
 
 Essentially, the US is broken into a grid of cells called quadrangles, and the images NAIP provides correspond to cells in this grid. Thus, to get an image containing a specific city or landmark, one must first figure out in which quadrangle it is located. The quadrangle naming conventions are standardized based on latitude and longitude coordinates, so the name of the target quadrangle can be easily calculated. Here, we use this fact to automate the process of downloading NAIP images based on simple names like "Golden Gate Bridge, CA" with a simple procedure:
 

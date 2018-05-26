@@ -2,6 +2,8 @@
 layout: post
 title: "EDA Reference - Python vs R"
 permalink: /eda-python-vs-r/
+description: "Side-by-side Python and R code for general exploratory data analysis. Genetic
+data from The Cancer Genome Atlas is used as a test case."
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
