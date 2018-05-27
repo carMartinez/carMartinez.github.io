@@ -61,7 +61,7 @@ and perimeter extraction procedure are detailed in the [Methods section](#method
 
 # Results
 
-[![Results](/assets/img/perimeter/results.png)](/assets/img/perimeter/results.png)
+[![Results](/assets/img/perimeter/results_small.png)](/assets/img/perimeter/results.png)
 
 {:.image-caption}
 Figure 2. (Click to see full size) Results of perimeter detection process applied
