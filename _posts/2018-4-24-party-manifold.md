@@ -13,8 +13,13 @@ applied to US Congressional voting data.
 
  <!-- <iframe src="http://127.0.0.1:9999/" width="840" height="675"></iframe> -->
 
-<iframe src="https://toeing-party-manifold.herokuapp.com/" width="840" height="675"></iframe>
-
+ <div id="overlay-container">
+   <div id="iframe-container">
+    <iframe src="https://toeing-party-manifold.herokuapp.com/" width="860" height="675"></iframe>
+   </div>
+   <div id="underlay">Please wait ~20 seconds for the app server to spin up if this
+   is your first viewing.</div>
+ </div>
 
 ## Overview
 
