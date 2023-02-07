@@ -5,6 +5,8 @@ permalink: /gils-football-pool/
 description: "A Django-powered web app to facilitate a football pools/squares game"
 ---
 
+Update: I no longer maintain this site and will likely remove this post. It was a fun project.
+
 A website for streamlining my Dad's yearly Super Bowl pool/squares game. Built
 with Django, the site utilizes a postgresql database to organize and manage all
 of our friends who want to play. Players simply pick their squares and enter
