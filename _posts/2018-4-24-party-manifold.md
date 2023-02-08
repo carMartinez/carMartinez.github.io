@@ -21,6 +21,8 @@ applied to US Congressional voting data.
    is your first viewing.</div>
  </div>
 
+ Update: the interactive viz is currently unavailable. 
+
 ## Overview
 
 Dimensionality reduction techniques
